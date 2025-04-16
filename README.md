@@ -81,6 +81,7 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=uXaamA&theme=radical&column=4)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=uXaamA&theme=react-dark)](https://github.com/uXaamA)
 
 
 ---
