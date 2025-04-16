@@ -80,8 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uXaamA&theme=radical" alt="GitHub Streak"/>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=uXaamA&theme=radical&column=4)
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=uXaamA&theme=react-dark)](https://github.com/uXaamA)
 
 
 ---
@@ -92,3 +90,4 @@
 ---
 
 ### 🙌 Let's Build the Future with Data 🌍
+### 🧠 I'm not just training models — I'm training my mindset to win
