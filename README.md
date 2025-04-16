@@ -1,6 +1,3 @@
-![Data Science Banner](github_banner.PNG)
-github_banner.PNG 
-
 <h1 align="center">Hi there, I'm Usama 👋</h1>
 <p align="center">
   💻 Data Science Explorer | 📊 Business Intelligence Enthusiast | 🌍 Future PhD in AI | 💡 Growth Seeker
