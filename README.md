@@ -55,6 +55,24 @@
 
 ---
 
+---
+
+### 🚀 Projects I'm Proud Of
+
+- 🎭 **Multimodal Sentiment Analysis (Text + Audio)**  
+  Designed a sentiment detection pipeline using LSTM for text and CNN-RNN hybrid for audio signals. Fused features to classify emotions like joy, anger, sadness, and surprise using deep learning. Built with PyTorch and Hugging Face Transformers.  
+  [View Repo](#)
+  
+- 🧠 **Product Search Engine with CLIP**  
+  Built a semantic image search engine using Hugging Face's CLIP model and vector database to match text queries with relevant products. Enabled fast and accurate retrieval in e-commerce scenarios.  
+  [View Repo](#)
+
+- 📈 **Power BI Sales Dashboard**  
+  Developed an interactive dashboard to visualize monthly and yearly KPIs, automate exports, and generate insights from sales data using DAX and Power Query.  
+  [View Report](#)
+
+---
+
 ### 🏆 GitHub Stats
 
 <p align="center">
