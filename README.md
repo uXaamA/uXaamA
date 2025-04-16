@@ -80,6 +80,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uXaamA&theme=radical" alt="GitHub Streak"/>
 </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=uXaamA&theme=radical&column=4)
+
+
 ---
 
 ### 🔭 My Motto
